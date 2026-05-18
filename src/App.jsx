@@ -24,7 +24,7 @@ function App() {
     {
       title: 'College Management System',
       desc: 'Full Stack Java project using Java, JDBC, Servlet, JSP and MySQL with authentication and admin panel.',
-      link: 'https://github.com/karanwaghachoure95/jijamatacollegeprojectkaran'
+      link: 'https://jijamatacollegeprojectkaran.onrender.com'
     },
 
     {
