@@ -180,13 +180,100 @@ function App() {
 
         <h2>About Me</h2>
 
-        <p>
-          I am Karan Waghachoure, a passionate Full Stack Java Developer.
-          I love building professional web applications and backend systems.
-          I work with Java, Spring Boot, Hibernate, MySQL,
-          React JS and Cloud technologies.
-          I also know AI/ML, Python, C++, PHP and AWS Deployment.
-        </p>
+      <div className="about-content">
+
+
+  <p>
+    I am <span className="highlight">Karan Waghachoure</span>, a passionate and dedicated
+    <span className="highlight"> Full Stack Java Developer</span>
+    currently pursuing TY BSc Computer Science from Savitribai Phule Pune Institute.
+    I enjoy developing modern, scalable, and user-friendly web applications
+    along with powerful backend systems.
+  </p>
+
+  <p>
+    My primary expertise lies in
+    <span className="highlight"> Java Full Stack Development</span>,
+    where I work with technologies like Core Java, Advanced Java,
+    Spring Boot, Hibernate, JDBC, Servlets, JSP, MySQL,
+    React JS, HTML, CSS, JavaScript, and REST APIs.
+  </p>
+
+  <p>
+    I have strong knowledge of Object-Oriented Programming (OOP),
+    Collections Framework, Exception Handling, Multithreading,
+    Lambda Expressions, Maven, Git & GitHub, and database management.
+    I also build responsive and attractive frontend interfaces using
+    React JS and modern UI design principles.
+  </p>
+
+  <p>
+    Apart from Java development, I also have knowledge of
+    Python, PHP, C++, AI/ML concepts, Data Analytics,
+    and Cloud technologies. I am familiar with AWS deployment,
+    backend hosting, API integration, and deploying full-stack
+    applications on cloud platforms.
+  </p>
+
+  <p>
+    I am passionate about problem-solving, software architecture,
+    and building real-world projects that provide practical solutions.
+    I have worked on projects like College Management System,
+    portfolio websites, and various full-stack applications.
+  </p>
+
+  <div className="skills-section">
+
+    <h3>Technical Skills</h3>
+
+    <div className="skills-grid">
+
+      <div className="skill-card">
+        <h4>Languages</h4>
+        <p>Java, Python, C++, JavaScript, PHP, SQL</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Frontend</h4>
+        <p>HTML, CSS, JavaScript, React JS, Bootstrap</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Backend</h4>
+        <p>Spring Boot, Hibernate, JDBC, Servlets, JSP</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Database</h4>
+        <p>MySQL</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Tools & Platforms</h4>
+        <p>Git, GitHub, Maven, VS Code, Eclipse, IntelliJ IDEA</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Cloud & Deployment</h4>
+        <p>AWS, Render, Netlify</p>
+      </div>
+
+      <div className="skill-card">
+        <h4>Other Concepts</h4>
+        <p>REST API, OOP, Data Structures, AI/ML Basics</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <p className="career-goal">
+    I am currently looking for opportunities where I can apply my
+    technical knowledge, contribute to innovative projects,
+    and grow as a professional software developer in the IT industry.
+  </p>
+
+</div>
 
       </section>
 
