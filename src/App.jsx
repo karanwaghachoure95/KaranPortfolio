@@ -33,6 +33,17 @@ function App() {
       link: 'https://github.com/karanwaghachoure95/voice-assistant'
     },
 
+      {
+      title: 'Hardware Management System',
+      desc: 'Modern responsive Hardware Management System website using Java ,Mysql ,  React JS, CSS and JavaScript.',
+      link: 'https://github.com/karanwaghachoure95/HardwareManagementSystem'
+    },
+       {
+      title: 'Food Order Management System',
+      desc: 'Modern responsive Food Order Management System website using php ,Html, CSS and JavaScript ,PostgreSQL Database.',
+      link: 'https://github.com/karanwaghachoure95/Food-Order-Management'
+    },
+
     {
       title: 'Portfolio Website',
       desc: 'Modern responsive portfolio website using React JS, CSS and JavaScript.',
