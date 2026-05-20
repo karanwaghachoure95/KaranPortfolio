@@ -171,7 +171,7 @@ function App() {
               className="resume-btn"
               onClick={() =>
                 window.open(
-                  '/KaranResume.pdf',
+                  '/KaranUpdateResume .pdf',
                   '_blank'
                 )
               }
@@ -342,6 +342,15 @@ function App() {
           }}
         >
           TY
+        </button>
+
+         <button
+          onClick={(e) => {
+            e.stopPropagation();
+            window.open('/MCASCORE.pdf', '_blank');
+          }}
+        >
+          MCA Score
         </button>
 
       </div>
